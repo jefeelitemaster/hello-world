@@ -1,2 +1,2 @@
-# hello-world
-Get started with GitHub
+# About me
+I'm learning github right now!
